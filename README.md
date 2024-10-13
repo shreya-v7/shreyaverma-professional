@@ -7,3 +7,5 @@ Install all the modules after cloning the repository
 
 Run the project on your local host
 `npm run dev`
+
+Have a look at: https://shreyaverma.netlify.app
