@@ -11,12 +11,10 @@ const experienceData = [
         title: "Software Engineer II",
         duration: "Jan 2024 - Present",
         content: [
-          "Java Application Developer & Data Analyst in Client & Investor Analytics team, modernizing risk measures (exposure, beta, VaR) handling $600M worth portfolios. Developed Monte Carlo simulations.",
-          "Optimized exposure risk calculations with a Greedy Algorithm, reducing processing time from 4+ hours to 30 minutes.",
-          "Developed PowerBI dashboards with DAX queries for factor analytics identifying loss in a portfolio due to market events.",
-          "Promoted a liquidity calculator to OpenShift using Kubernetes and Docker, and created Terraform scripts for IaC, saving 40+ hours.",
-          "Contributed to SRE stack configuration (Loki, Prometheus, Grafana, Tempo).",
-          "Led Agile methodologies as Scrum Master, analyzing team performance metrics with Dash Tables and Plotly in Python."
+          "Developed Stress-Testing Frameworks: Built a framework using the Barra model for factor returns and market shock simulations via Monte Carlo methods, visualized results in Power BI for interactive analysis, and enhanced data quality checks.",
+          "Optimized Risk Calculations: Implemented a Greedy Algorithm reducing exposure risk computation from 4 hours to 30 minutes.",
+          "Improved Database and IaC Efficiency: Set up Delphix servers and Terraform scripts, eliminating database conflicts and reducing QA/test setup time by 40+ hours per cycle.",
+          "Innovated Data Quality Detection: Developed a Deep Learning autoencoder for anomaly detection in risk reports and created rule-based DQ frameworks for actionable insights."
         ],
         awards: "IST Circle of Excellence Award, Team Engagement Champion 2024 Quarterly Awards",
         techStack: ["PyTorch", "Keras", "Tensorflow", "Java", "Springboot", "Python", "Angular", "PowerBI", "Kafka", "Redis", "Kubernetes", "Podman", "Terraform", "Delphix", "Loki", "Prometheus", "Grafana", "Tempo", "Openshift"],
