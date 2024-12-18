@@ -11,7 +11,7 @@ const experienceData = [
         title: "Software Engineer II",
         duration: "Jan 2024 - Present",
         content: [
-          "Java Application Developer & Data Analyst in Market Risk Management, modernizing risk measures (exposure, beta, VaR) handling $600M worth portfolios. Developed Monte Carlo simulations.",
+          "Java Application Developer & Data Analyst in Client & Investor Analytics team, modernizing risk measures (exposure, beta, VaR) handling $600M worth portfolios. Developed Monte Carlo simulations.",
           "Optimized exposure risk calculations with a Greedy Algorithm, reducing processing time from 4+ hours to 30 minutes.",
           "Developed PowerBI dashboards with DAX queries for factor analytics identifying loss in a portfolio due to market events.",
           "Promoted a liquidity calculator to OpenShift using Kubernetes and Docker, and created Terraform scripts for IaC, saving 40+ hours.",
