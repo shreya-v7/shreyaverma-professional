@@ -9,19 +9,20 @@ const experienceData = [
     roles: [
       {
         title: "Software Engineer II",
-        duration: "Jan 2024 - Present",
+        duration: "Sep 2024 - Present",
         content: [
-          "Developed Stress-Testing Frameworks: Built a framework using the Barra model for factor returns and market shock simulations via Monte Carlo methods, visualized results in Power BI for interactive analysis, and enhanced data quality checks.",
+          "Developing Stress-Testing Frameworks: Built a framework using the Barra model for factor returns and market shock simulations via Monte Carlo methods, visualized results in Power BI for interactive analysis, and enhanced data quality checks.",
+          "Building user interface for business groups to view stress test reports in ReactJS with drilldown and interactive features.",
           "Optimized Risk Calculations: Implemented a Greedy Algorithm reducing exposure risk computation from 4 hours to 30 minutes.",
           "Improved Database and IaC Efficiency: Set up Delphix servers and Terraform scripts, eliminating database conflicts and reducing QA/test setup time by 40+ hours per cycle.",
           "Innovated Data Quality Detection: Developed a Deep Learning autoencoder for anomaly detection in risk reports and created rule-based DQ frameworks for actionable insights."
         ],
         awards: "IST Circle of Excellence Award, Team Engagement Champion 2024 Quarterly Awards",
-        techStack: ["PyTorch", "Keras", "Tensorflow", "Java", "Springboot", "Python", "Angular", "PowerBI", "Kafka", "Redis", "Kubernetes", "Podman", "Terraform", "Delphix", "Loki", "Prometheus", "Grafana", "Tempo", "Openshift"],
+        techStack: ["PyTorch", "Keras", "Tensorflow", "Java", "Springboot", "Python", "Angular", "React", "PowerBI", "Kafka", "Redis", "Kubernetes", "Podman", "Terraform", "Delphix", "Loki", "Prometheus", "Grafana", "Tempo", "Openshift"],
       },
       {
         title: "Technology Analyst",
-        duration: "Jul 2023 - Dec 2024",
+        duration: "Jul 2023 - Sep 2024",
         content: [
           "Created a Deep Learning model framework (autoencoder) for a rule-based data quality engine for anomaly detection in risk data.",
           "Graduated from Morgan Stanley's prestigious Technology Analyst Program (TAP), gaining expertise in software engineering, financial technology, and internal tech architecture."
